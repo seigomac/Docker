@@ -1,0 +1,9 @@
+ruby on rails 専用のリポジトリである。
+
+■ggit コマンドまとめ
+
+・ブランチの切り方
+　git branch 新しいブランチ名
+
+・ブランチの移動
+　git checkout　ブランチ名
